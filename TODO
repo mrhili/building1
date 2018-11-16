@@ -1,0 +1,81 @@
+
+
+GOOD TAGS 4 NAVBAR BACKEND
+
+SOCIALITE WHEN USIN A DOMAIN NAME
+
+TO DOLETE A CATEGORY You SHOULD GET THE ID AND DELETE ALL THE CHILD HOO HAVE THE SAME NUMBER IN THE PARENT ID
+
+WHEN FETCH A CATEGORIE FETCH ALL ITEM IN THE SUB CATEGORIE
+
+
+LOOK AT THE DELETING WHEN HAPPEN I THINK WILL BE WRONG
+
+
+WHEN HOVERING ON A CATEGORIE FETCH HIS IMAG
+
+WHEN CLICKIN ON A NAVABRA PLEASE USE AJAW TO DISPLAY THE CONTENET
+
+
+
+HIDE THE NOT CAR AND CONTINUE WITH OTHERS
+
+DESTROY IMG IN FEDTROi byul
+
+--MINMAX REQUEST BUILDING
+
+-add name required and in email required and unique
+
+----------NO MULTI IN CAR AREA AND MORE
+
+
+
+---WHEN SHOWING A USER SHOW EVERY ITEM HE GAT
+
+
+
+
+
+---------Indicate the preferred URL with the rel="canonical" link element
+Suppose you want https://blog.example.com/dresses/green-dresses-are-awesome/ to be the preferred URL, even though a variety of URLs can access this content. You can indicate this to search engines as follows:
+
+Mark up the canonical page and any other variants with a rel="canonical" link element.
+Add a <link> element with the attribute rel="canonical" to the <head> section of these pages: 
+<link rel="canonical" href="https://blog.example.com/dresses/green-dresses-are-awesome" />
+This indicates the preferred URL to use to access the green dress post, so that the search results will be more likely to show users that URL structure. (Note: We attempt to respect this, but cannot guarantee this in all cases.)
+
+Avoid errors: use absolute paths rather than relative paths with the rel="canonical" link element.
+
+Use this structure:  https://www.example.com/dresses/green/greendresss.html
+Not this structure: /dresses/green/greendress.html).
+
+
+
+----ROBOT.txt
+
+
+
+----SET KEYWORD FROM NOTE
+
+
+----GOOGLE ANALYSE
+
+
+
+https://www.youtube.com/watch?v=ITw3heFt4fY&list=PLYp_Kd32XvcoVyVKtclVRzDc-jqv3WNgx&index=11
+
+
+
+
+
+
+-----twitter:card
+
+
+oneLenght CLASS TO FORM BUILDING
+
+
+SIZE OF FORMS IN THE FORM BUILDING
+
+
+

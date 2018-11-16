@@ -1,0 +1,258 @@
+.box-body{
+    overflow: overlay;
+}
+
+.box-header>.box-tools{
+  right: initial;
+  left: 10px;
+}
+
+.nav{
+    padding-right: 5px;
+}
+
+.nav-stacked>li.active>a, .nav-stacked>li.active>a:hover{
+    border-right: 3px #3c8dbc solid;
+    border-left: none !important;
+
+}
+
+
+
+.navbar-nav>li {
+	    float: left !important;
+	}
+@media (min-width: 768px){
+	.navbar-nav>li {
+	    float: left;
+	}
+}
+
+
+.content-header {
+
+    direction: rtl;
+}
+
+
+.childesDecoNone>*{
+    list-style-type: none;
+
+}
+
+
+@media (max-width: 991px){
+    .content-header>.breadcrumb {
+        right: 0;
+        float: none;
+    }
+}
+@media (min-width: 991px){
+    .content-header>.breadcrumb {
+        float: left;
+        left: 10px;
+        right: initial;
+    }
+}
+
+.box-header .box-title {
+    float: right;
+}
+div.dataTables_info {
+
+    text-align: right;
+}
+li.header{
+	text-align: center;
+	color: #fff;
+}
+
+.sidebar {
+	text-align: right;
+}
+
+.sidebar-form .btn {
+    color: #999;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 2px;
+}
+
+.sidebar-form input[type="text"] {
+    color: #666;
+    border-top-left-radius: 0;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 0px;    
+}
+
+.info{
+	border-right: 1px #aaa solid;
+}
+.sidebar-menu .treeview-menu .treeview-menu {
+    padding-right: 20px;
+    padding-left: 0px;
+}
+
+.small-box .icon {
+    right: initial;
+    left: 10px;
+}
+/**/
+input[type="text"]{
+	text-align: center !important;
+}
+/*
+.control-sidebar.control-sidebar-open, .control-sidebar.control-sidebar-open+.control-sidebar-bg {
+    right: -webkit-calc(100% - 230px);
+    right: -moz-calc(100% - 230px);
+    right: -o-calc(100% - 230px);
+    right: calc(100% - 230px);
+
+
+
+}
+*/
+/*TREE EDITABL*/
+
+.treetable{
+
+}
+.treetable .fa{
+    cursor: pointer;
+    padding-right: 5px;
+}
+.treetable .rowhidden{
+    display: none;
+}
+.treetable .j-addChild{
+    display: none;
+}
+.treetable .selected .j-addChild{
+    display: block;
+    color: black;
+}
+.treetable .btn-outline{
+    background-color: transparent;
+}
+.treetable .form-control{
+    width: auto;
+    display: inline-block;
+}
+.treetable .textalign-center{
+    text-align: center;
+}
+.treetable .j-expend{
+    cursor: pointer;
+    width: 35% !important;
+    text-align: left !important;
+}
+.treetable .maintitle{
+    width: 35% !important;
+}
+.treetable .j-remove{
+    padding: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    color:red;
+}
+.treetable .tt-header{
+    margin-top:10px;
+}
+.treetable .class-level-2 .class-level-ul .j-expend{
+    position: relative;
+    left: 22px;
+}
+.treetable .class-level-3 .class-level-ul .j-expend{
+    position: relative;
+    left: 44px;
+}
+.treetable .class-level-4 .class-level-ul .j-expend{
+    position: relative;
+    left: 66px;
+}
+.treetable .class-level-1 {
+    border-bottom: dashed 1px #eee;
+}
+.treetable .class-level-ul{
+    padding: 0;
+    margin-bottom: 2px;
+}
+.treetable .class-level-ul li {
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    padding: 1px 10px;
+    min-width: 120px;
+    list-style: none;
+}
+.treetable .class-level-ul:after {
+    display: block;
+    clear: both;
+    height: 0;
+    content: "\0020";
+}
+.treetable .tt-header div span {
+    width: auto;
+    line-height: 29px;
+    display: inline-block;
+    min-width: 120px;
+    text-align: center;
+}
+.treetable .tt-body{
+    border: solid 1px #DDD;
+    padding-top: 1px;
+    background-color:#FFF;
+}
+.treetable .tt-header div{
+    border: solid 1px #DDD;
+    border-bottom:none;
+    background-color:#FFF;
+}
+
+
+.class-level-5 .class-level-ul .j-expend {
+    left: 88px;
+}
+
+.class-level-6 .class-level-ul .j-expend {
+    left: 110px;
+}
+
+
+
+
+
+
+
+/**************************/
+
+
+
+.a{
+    border-left: 3px #3c8dbc solid !important;
+}
+
+.marginLeftX{
+    margin-left: 10px;
+}
+
+.heightXL{
+	height: 200px;
+}
+
+.imgCenter {
+    margin: 0 auto;
+}
+
+.maxWidthMIN{
+	max-width: 50px;
+}
+.textAlignCenter{
+	text-align: center;
+}
+
+.blueAnchor{
+    color: #3c8dbc;
+}
